@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42964'
     url: http://www.gutenberg.org/2009/agents/42964
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44891#The-Works-of-the-Right-Honourable-John-Earl-of-RochesterConsisting-of-Satires-Songs-Translati_
 gutenberg_issued: '2014-02-13'
 gutenberg_type: Text
 identifiers:
